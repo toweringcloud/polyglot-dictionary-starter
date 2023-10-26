@@ -1,6 +1,6 @@
 # word-dictionary
 
-polyglot mini word dictionary challenge
+polyglot word dictionary challenge
 
 -   dart : wardic.dart (2023.10.21, https://dartpad.dev)
 -   javascript : wardic.js (2023.10.21, auto-generated from ts file)
